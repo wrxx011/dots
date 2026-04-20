@@ -1,0 +1,9 @@
+[15:48:14 2026-04-07] FETCHING Version 2.43.1
+[15:48:14 2026-04-07] CREATING /home/fnowak/.spicetify
+[15:48:14 2026-04-07] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.43.1/spicetify-2.43.1-linux-amd64.tar.gz
+[15:48:15 2026-04-07] EXTRACTING /home/fnowak/.spicetify/spicetify.tar.gz
+[15:48:15 2026-04-07] SETTING EXECUTABLE PERMISSIONS TO /home/fnowak/.spicetify/spicetify
+[15:48:15 2026-04-07] REMOVING /home/fnowak/.spicetify/spicetify.tar.gz
+[15:48:15 2026-04-07] APPENDING /home/fnowak/.spicetify to PATH in /home/fnowak/.zshrc
+[15:48:15 2026-04-07] spicetify v2.43.1 was installed successfully to /home/fnowak/.spicetify
+[15:48:15 2026-04-07] Run 'spicetify --help' to get started

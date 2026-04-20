@@ -1,0 +1,4 @@
+@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+configuration{
+	font: "Fira Code Nerd Font 11";
+}

@@ -1,0 +1,36 @@
+* {
+    font-family: Source Code Pro;
+    font-size: 13px;
+    border: none;
+    border-radius: 0px;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+window#waybar {
+    background: #353535;
+}
+
+#network {
+    color: lime;
+}
+
+#network.disconnected {
+    color: red;
+}
+
+.modules-right {
+    padding-right: 4px;
+}
+
+#workspaces button {
+	all: initial;
+    background-color: #353535;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#workspaces button.active {
+    background-color: gray;
+}
